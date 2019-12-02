@@ -1,0 +1,8 @@
+22:00:33.632 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-K68GJEP with PID 11844 (F:\javaweb\target\classes started by WHY in F:\javaweb)
+22:00:33.642 [main] INFO  com.example.demo.DemoApplication - The following profiles are active: dev,classpath:/application.properties
+22:00:34.610 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10001"]
+22:00:34.611 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+22:00:34.613 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+22:00:34.724 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:00:35.350 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10001"]
+22:00:35.395 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.029 seconds (JVM running for 4.509)

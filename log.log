@@ -1,0 +1,5 @@
+[INFO ] 2019-12-02 21:48:22,384 org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10001 (http)
+[INFO ] 2019-12-02 21:48:22,488 org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 912 ms
+[INFO ] 2019-12-02 21:48:22,624 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[WARN ] 2019-12-02 21:48:22,716 org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[INFO ] 2019-12-02 21:48:22,983 org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10001 (http) with context path ''
