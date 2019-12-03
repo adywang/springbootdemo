@@ -1,8 +1,13 @@
-22:00:33.632 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-K68GJEP with PID 11844 (F:\javaweb\target\classes started by WHY in F:\javaweb)
-22:00:33.642 [main] INFO  com.example.demo.DemoApplication - The following profiles are active: dev,classpath:/application.properties
-22:00:34.610 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10001"]
-22:00:34.611 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-22:00:34.613 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
-22:00:34.724 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-22:00:35.350 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10001"]
-22:00:35.395 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.029 seconds (JVM running for 4.509)
+13:29:21.044 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-ECRBGJ7 with PID 26952 (started by admin in H:\项目\springbootdemo)
+13:29:21.051 [main] INFO  com.example.demo.DemoApplication - The following profiles are active: dev,classpath:/application.properties
+13:29:21.939 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-20002"]
+13:29:21.939 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+13:29:21.940 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+13:29:22.062 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+13:29:22.664 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-20002"]
+13:29:22.689 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.928 seconds (JVM running for 3.483)
+13:29:27.845 [http-nio-20002-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+13:29:27.885 [http-nio-20002-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Starting...
+13:29:28.135 [http-nio-20002-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Start completed.
+13:29:54.158 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Shutdown initiated...
+13:29:54.162 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Shutdown completed.
